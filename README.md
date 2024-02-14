@@ -2,5 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+<h2>YouTube Videos of Projects</h2>
 
+- [Python Monster Blaster Game](https://www.youtube.com/watch?v=ReUM6f4rR_0)
+- [Simple Python Security Login Auth](https://www.youtube.com/watch?v=0_r4sCUGJ80&t=7s)
 
