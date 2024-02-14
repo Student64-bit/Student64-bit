@@ -1,8 +1,6 @@
 <h1>Hey, I'm David <br/> <a href="https://www.youtube.com/@youtubeport564">YouTube Channel</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>💻 Software Development Projects:</h2>
 
 - <b>Amazon Web Services DevOps Project (NGINX & Network Load Balancing</b>
   - [AWS DevOps Project](https://github.com/Student64-bit/Simple-Devops-Deployment-Project/blob/main/README.md)
