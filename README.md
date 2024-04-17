@@ -2,6 +2,10 @@
 
 <h2>💻 Software Development Projects:</h2>
 
+- <b>Amazon web services(AWS) Projects</b>
+
+
+
 - <b>Projects</b>
   - [AWS DevOps Project](https://github.com/Student64-bit/Simple-Devops-Deployment-Project/blob/main/README.md)
   - [Voice controlled bot Project](https://github.com/Student64-bit/Voice-controlled-bot-Project/tree/main)
