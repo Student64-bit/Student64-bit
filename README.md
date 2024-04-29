@@ -4,7 +4,10 @@
 
 - <b>Amazon web services(AWS) Projects</b>
  - [AWS Employee Face Recognition: Granting/Denying Access](https://github.com/Student64-bit/AWS-Employee-Face-Recognition-Granting-Denying-Access-Project)
-
+ - [AWS Rideshare Project](https://github.com/Student64-bit/AWS-Rideshare-Project)
+ - [AWS Cloud Resume Project](https://github.com/Student64-bit/AWS-Cloud-Resume-Project)
+ - [AWS Company Email Scheduler Project](https://github.com/Student64-bit/AWS-Company-Email-Scheduler-Project)
+ - [AWS Simple Document Language Translator](https://github.com/Student64-bit/AWS-Simple-Document-Language-Translator)
 
 
 
