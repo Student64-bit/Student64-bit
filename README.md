@@ -3,6 +3,9 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Amazon web services(AWS) Projects</b>
+ - [AWS Employee Face Recognition: Granting/Denying Access](https://github.com/Student64-bit/AWS-Employee-Face-Recognition-Granting-Denying-Access-Project)
+
+
 
 
 
