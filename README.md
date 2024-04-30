@@ -16,7 +16,7 @@
 
 
 - <b>Other Projects</b>
-  - [AWS DevOps Project](https://github.com/Student64-bit/Simple-Devops-Deployment-Project/blob/main/README.md)
+  - [NGINX](https://github.com/Student64-bit/Simple-Devops-Deployment-Project/blob/main/README.md)
   - [Voice controlled bot Project](https://github.com/Student64-bit/Voice-controlled-bot-Project/tree/main)
   - [Book Webstore Project](https://github.com/Student64-bit/Bookstore-Website-Project)
 
