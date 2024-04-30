@@ -4,7 +4,8 @@
 
 - <b>Amazon web services(AWS) 
 
- - [AWS Devops Load Balancer Project](Projects</b> https://github.com/Student64-bit/AWS-Devops-project-with-the-use-of-Load-Balancers)
+<b>Aws Projects</b> 
+ - [AWS Devops Load Balancer Project](https://github.com/Student64-bit/AWS-Devops-project-with-the-use-of-Load-Balancers)
  - [AWS Employee Face Recognition: Granting/Denying Access](https://github.com/Student64-bit/AWS-Employee-Face-Recognition-Granting-Denying-Access-Project)
  - [AWS Rideshare Project](https://github.com/Student64-bit/AWS-Rideshare-Project)
  - [AWS Cloud Resume Project](https://github.com/Student64-bit/AWS-Cloud-Resume-Project)
