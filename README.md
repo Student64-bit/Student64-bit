@@ -4,7 +4,7 @@
 
  <b>Amazon web services projects (AWS)</b>
  - [AWS Multiple Container Deployment with Serverless and Managed Services Project - DevOps](https://github.com/Student64-bit/AWS-Multiple-Container-Deployment-with-Serverless-and-Managed-Services-Project---DevOps)
- - [AWS Devops Load Balancer Project](https://github.com/Student64-bit/AWS-Devops-project-with-the-use-of-Load-Balancers)
+ - [AWS Load Balancer Project - DevOps](https://github.com/Student64-bit/AWS-Devops-project-with-the-use-of-Load-Balancers)
  - [AWS Employee Face Recognition: Granting/Denying Access](https://github.com/Student64-bit/AWS-Employee-Face-Recognition-Granting-Denying-Access-Project)
  - [AWS Rideshare Project](https://github.com/Student64-bit/AWS-Rideshare-Project)
  - [AWS Cloud Resume Project](https://github.com/Student64-bit/AWS-Cloud-Resume-Project)
