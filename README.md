@@ -4,6 +4,7 @@
 
  <b>Amazon web services projects (AWS)</b>
 
+ - [Photo Genie Project](https://github.com/Student64-bit/Photo-Genie---AWS-Project)
  - [Database and Frontend Cloud Migration & Optimization Project Using AWS](https://github.com/Student64-bit/Database-and-Frontend-Cloud-Migration-Optimization-Project-Using-AWS)
  - [AWS Cloud Migration Concept For Later Project](https://github.com/Student64-bit/My-Approach-to-Cloud-Migration-Concept-for-later-Project-)
  - [AWS Multiple Container Deployment with Serverless and Managed Services Project - DevOps](https://github.com/Student64-bit/AWS-Multiple-Container-Deployment-with-Serverless-and-Managed-Services-Project---DevOps)
