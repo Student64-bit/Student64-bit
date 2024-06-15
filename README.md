@@ -4,7 +4,7 @@
 
  <b>Amazon web services projects (AWS)</b>
 
- - [Jenkins/Sonarqube/Docker CI-CD (ContinuousIntegration-analyzation-and-deployment)Devops-Project
+ - [Jenkins/Sonarqube/Docker CI-CD (Continuous Integration, analyzation and deployment)Devops-Project
 ](https://github.com/Student64-bitJenkins-Sonarqube-Docker-CI-CD-Continuous-Integration-analyzation-and-deployment-Devops-Project-
 )
  - [Database and Frontend Cloud Migration & Optimization Project Using AWS](https://github.com/Student64-bit/Database-and-Frontend-Cloud-Migration-Optimization-Project-Using-AWS)
