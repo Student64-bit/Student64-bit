@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my software deve
 ### Future Deployment Plans
 
 - [Photo Genie](https://github.com/Student64-bit/AWS-Rideshare-Project)
-- [Photo Genie V2: Educational Children's Game Base Concept]([https://github.com/Student64-bit/Photo-Genie---AWS-Project](https://github.com/Student64-bit/Photo-GenieV2-Saas-upgrade-Educational-Childrends-Application-Base-Concept-))
+- [Photo Genie V2: Educational Children's Game Base Concept](https://github.com/Student64-bit/Photo-GenieV2-Saas-upgrade-Educational-Childrends-Application-Base-Concept-)
 
 ### Amazon Web Services (AWS) Projects
 
