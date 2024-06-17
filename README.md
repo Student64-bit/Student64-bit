@@ -34,9 +34,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my software deve
 
 ### Other Projects
 
-- [Voice Controlled Bot Project](https://github.com/Student64-bit/Voice-controlled-bot-Project/tree/main)  
-  A bot controlled via voice commands.
-- [Book Webstore Project](https://github.com/Student64-bit/Bookstore-Website-Project)  
+- [React based nnline book store](https://youtu.be/VjaLsgd4SuA).
   A webstore for buying and selling books.
 
 
