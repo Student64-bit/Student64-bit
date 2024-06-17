@@ -34,7 +34,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my software deve
 
 ### Other Projects
 
-- [React based nnline book store](https://youtu.be/VjaLsgd4SuA).
+- [React based online book store](https://youtu.be/meUz8p8a8Hk).
   A webstore for buying and selling books.
 
 
