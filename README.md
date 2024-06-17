@@ -4,7 +4,7 @@
 
  <b>Projects I plan to deploy in the future</b>
   - [Photo Genie](https://github.com/Student64-bit/AWS-Rideshare-Project)
- - [Photo Geniev2 Educational Childrens game base concept](https://github.com/Student64-bit/Photo-Genie---AWS-Project)
+ - [Photo GenieV2 Educational Childrens game base concept](https://github.com/Student64-bit/Photo-Genie---AWS-Project)
  
 
  <b>Amazon web services projects (AWS)</b>
