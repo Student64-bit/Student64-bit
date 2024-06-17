@@ -1,6 +1,11 @@
-<h1>Hey, I'm David <br/> <a href="https://www.youtube.com/@youtubeport564">YouTube Channel</a></h1>
+<h1>Hey, I'm David <br/> 
 
 <h2>💻 Software Development Projects:</h2>
+
+ <b>Projects I plan to deploy in the future</b>
+  - [Photo Genie](https://github.com/Student64-bit/AWS-Rideshare-Project)
+ - [Photo Geniev2 Educational Childrens game base concept](https://github.com/Student64-bit/Photo-Genie---AWS-Project)
+ 
 
  <b>Amazon web services projects (AWS)</b>
 
@@ -17,16 +22,11 @@
  - [AWS Company Email Scheduler Project](https://github.com/Student64-bit/AWS-Company-Email-Scheduler-Project)
  - [AWS Simple Document Language Translator](https://github.com/Student64-bit/AWS-Simple-Document-Language-Translator)
 
+
+
 - <b>Other Projects</b>
-  - [NGINX](https://github.com/Student64-bit/Simple-Devops-Deployment-Project/blob/main/README.md)
   - [Voice controlled bot Project](https://github.com/Student64-bit/Voice-controlled-bot-Project/tree/main)
   - [Book Webstore Project](https://github.com/Student64-bit/Bookstore-Website-Project)
 
-<h2>YouTube Videos of Projects</h2>
-
-- [React Bookstore](https://www.youtube.com/watch?v=meUz8p8a8Hk)
-- [Voice controlled python Bot that preforms command based on what you ask](https://www.youtube.com/watch?v=rPKD3FXdxuc)
-- [Python Monster Blaster Game](https://www.youtube.com/watch?v=ReUM6f4rR_0)
-- [Simple Python Security Login Auth](https://www.youtube.com/watch?v=0_r4sCUGJ80&t=7s)
 
 
