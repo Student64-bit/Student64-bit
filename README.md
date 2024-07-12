@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my software deve
 - [Photo Genie](https://github.com/Student64-bit/Photo-Genie---AWS-Project)
 - [Photo Genie V2: Educational Children's Game Base Concept](https://github.com/Student64-bit/Photo-GenieV2-Saas-upgrade-Educational-Childrends-Application-Base-Concept-)
 
-### Devops related projects
+### DevOps/Pipeline-automation related projects
 
 - [Jenkins/Sonarqube/Docker CI-CD DevOps Project](https://github.com/Student64-bit/Jenkins-Sonarqube-Docker-CI-CD-Continuous-Integration-analyzation-and-deployment-Devops-Project-)  
   Continuous Integration, analysis, and deployment using Jenkins, Sonarqube, and Docker.
